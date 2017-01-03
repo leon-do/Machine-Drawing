@@ -2,13 +2,14 @@ This is the algorithm.
 
 ![alt tag](./demo.png)
 
+----------------------------------------------
 
 
 This is a 3D model.
 
 ![alt tag](./demo2.png)
 
-
+----------------------------------------------
 
 This is some g-code:
 <pre>
