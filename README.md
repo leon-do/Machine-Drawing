@@ -8,6 +8,7 @@ configForPrusaMendel.ini are settings to generate gcode
 
 ----------------------------------------------
 
+This is the algorithm. (machineDrawing.ghx)
 
 ![alt tag](./example/demo.png)
 
@@ -15,7 +16,7 @@ configForPrusaMendel.ini are settings to generate gcode
 ----------------------------------------------
 
 
-This is a 3D model.
+This is a 3D model. (machineDrawing.3dm)
 
 ![alt tag](./example/demo2.png)
 
