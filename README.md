@@ -1,6 +1,5 @@
-This is the algorithm.
+<h1> Machine Drawing </h1>
 
-----------------------------------------------
 
 - machineDrawing.ghx is the grasshopper file used to draw the model
 - machineDrawing.3dm is the rhino file used to view the model
