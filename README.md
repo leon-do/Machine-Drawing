@@ -1,6 +1,17 @@
 This is the algorithm.
 
+----------------------------------------------
+
+- machineDrawing.ghx is the grasshopper file to draw the model
+- machineDrawing.3dm is the rhino file to view the model
+configForPrusaMendel.ini are settings to generate gcode
+- serial-port-json-server is used to set up the server draw the model (using chillipeppr)
+
+----------------------------------------------
+
+
 ![alt tag](./example/demo.png)
+
 
 ----------------------------------------------
 
