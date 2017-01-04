@@ -22,7 +22,7 @@ This is a 3D model. (machineDrawing.3dm)
 
 ----------------------------------------------
 
-This is some g-code:
+This is some g-code (gCode.nc):
 <pre>
 X8.63 Y-5.88 Z-3.24
 X12.41 Y-2.36 Z-3.28
